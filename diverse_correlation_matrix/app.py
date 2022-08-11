@@ -27,4 +27,4 @@ def run() -> None:
     style.use("fivethirtyeight")
     rcParams["figure.figsize"] = (20, 10)
 
-    api_key = "b2035a9732004b5bad0c2ff8f0ef3b88"
+    api_key = "ABC123"
